@@ -2,7 +2,7 @@
 
 Welcome to the **Wheel of Time Vocabulary Project**! This repository contains a collection of JSON files, one for each book in Robert Jordan's *Wheel of Time* series. Each JSON file is a dictionary of advanced words used throughout the series, paired with succinct definitions to enhance your understanding and appreciation of this epic fantasy masterpiece.
 
-Check out the first one 🔥
+**Check out the first one 🔥**
 
 * **[The Eye of The World](https://github.com/jamezmca/wheel-of-time-vocab-list/blob/main/1_the_eye_of_the_word.json)**
 
